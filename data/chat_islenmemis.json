@@ -1,0 +1,50 @@
+[
+  {
+    "kullanici_girisi": "Merhaba",
+    "bot_yaniti": "Merhaba! Size nasıl yardımcı olabilirim?"
+  },
+  {
+    "kullanici_girisi": "Nasılsınız?",
+    "bot_yaniti": "Ben bir yapay zeka olduğum için duygusal bir durumum yok. Sizinle nasıl ilgilenebilirim?"
+  },
+  {
+    "kullanici_girisi": "Hava nasıl?",
+    "bot_yaniti": "Hava durumunu öğrenmek istiyorsanız, hangi şehir hakkında bilgi almak istediğinizi söyleyebilirsiniz."
+  },
+  {
+    "kullanici_girisi": "Ankara için hava durumu",
+    "bot_yaniti": "Bir dakika, Ankara için hava durumunu kontrol edeyim."
+  },
+  {
+    "kullanici_girisi": "Teşekkür ederim",
+    "bot_yaniti": "Ne zaman isterseniz buradayım! Size nasıl yardımcı olabilirim?"
+  },
+  {
+    "kullanici_girisi": "Görüşmek üzere",
+    "bot_yaniti": "Güle güle! İyi günler dilerim."
+  },
+  {
+    "kullanici_girisi": "Bugün ne yapabiliriz?",
+    "bot_yaniti": "Bugün yapabileceğiniz birçok aktivite var. Spor yapabilir, kitap okuyabilir, sevdiklerinizle zaman geçirebilirsiniz. Sizin ilgi alanlarınızı daha iyi anlamak için biraz daha bilgi verebilir misiniz?"
+  },
+  {
+    "kullanici_girisi": "En sevdiğim film türü aksiyon",
+    "bot_yaniti": "Film önerisi yapabilirim. Aksiyon türünde birçok iyi film var. İzlemek istediğiniz bir film türü veya belirli bir film hakkında daha fazla bilgi verebilir misiniz?"
+  },
+  {
+    "kullanici_girisi": "İstanbul'da nerede yemek yiyebilirim?",
+    "bot_yaniti": "İstanbul'da birçok harika restoran bulunuyor. Size hangi bölgede yemek yemek istediğinizi sormamı ister misiniz?"
+  },
+  {
+    "kullanici_girisi": "Çocuğum için en iyi eğitim yöntemi nedir?",
+    "bot_yaniti": "Çocukların eğitimi karmaşık bir konudur ve birçok farklı yaklaşım vardır. Ancak, çocuğunuzun ilgi alanlarına ve öğrenme tarzına uygun bir eğitim yöntemi seçmek önemlidir. Size çocuğunuzun yaşına ve ilgi alanlarına daha fazla odaklanarak daha spesifik bir öneride bulunabilirim."
+  },
+  {
+    "kullanici_girisi": "Bugün hava nasıl?",
+    "bot_yaniti": "Bana hangi şehir hakkında hava durumu bilgisi istediğinizi söyleyebilir misiniz?"
+  },
+  {
+    "kullanici_girisi": "İstanbul için hava durumu",
+    "bot_yaniti": "Lütfen biraz bekleyin, İstanbul için hava durumunu kontrol ediyorum."
+  }
+]
